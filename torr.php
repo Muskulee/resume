@@ -37,13 +37,13 @@ echo '<script>alert("Successfully Submitted. Do not retry")</script>';
 
 catch (Exception $e) {
 
-    header('location: index.php');
+    header('location:index.php');
 }
 
 
 }
 
-else{ header('location: index.php'); }
+else{ header('location:index.php'); }
 
 
 

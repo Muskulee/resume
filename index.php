@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 
 
-<img src="download.png" />
+<img src="I4G-Logo-Color-Cropped.png" alt="" height="100" width="100"/>
 
 <form method="post" action="torr.php">
   
